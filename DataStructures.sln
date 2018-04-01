@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1E495DED-7E20-4663-A3E0-ECABCDDD04AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F77DED69-28E7-4A00-8D59-B20CF676E607}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ConsoleApp", "src\ConsoleApp\ConsoleApp.xproj", "{FD522E6A-6FBB-49C6-AEFB-3AB5F242ED72}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Common", "src\Common\Common.xproj", "{BF169C03-FFEF-48DC-A661-817489635D25}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Linklist", "src\Linklist\Linklist.xproj", "{77A35A00-35F2-477F-92B2-39FBFCB23A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTreeNode\BinaryTree.csproj", "{4DB4168E-9DAA-4531-A345-20D308195314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{157017B9-FD5D-4863-8351-113852DCC7A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD522E6A-6FBB-49C6-AEFB-3AB5F242ED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD522E6A-6FBB-49C6-AEFB-3AB5F242ED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD522E6A-6FBB-49C6-AEFB-3AB5F242ED72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD522E6A-6FBB-49C6-AEFB-3AB5F242ED72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF169C03-FFEF-48DC-A661-817489635D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF169C03-FFEF-48DC-A661-817489635D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF169C03-FFEF-48DC-A661-817489635D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF169C03-FFEF-48DC-A661-817489635D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A35A00-35F2-477F-92B2-39FBFCB23A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A35A00-35F2-477F-92B2-39FBFCB23A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A35A00-35F2-477F-92B2-39FBFCB23A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A35A00-35F2-477F-92B2-39FBFCB23A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB4168E-9DAA-4531-A345-20D308195314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB4168E-9DAA-4531-A345-20D308195314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB4168E-9DAA-4531-A345-20D308195314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB4168E-9DAA-4531-A345-20D308195314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157017B9-FD5D-4863-8351-113852DCC7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157017B9-FD5D-4863-8351-113852DCC7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157017B9-FD5D-4863-8351-113852DCC7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157017B9-FD5D-4863-8351-113852DCC7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD522E6A-6FBB-49C6-AEFB-3AB5F242ED72} = {1E495DED-7E20-4663-A3E0-ECABCDDD04AE}
+		{BF169C03-FFEF-48DC-A661-817489635D25} = {1E495DED-7E20-4663-A3E0-ECABCDDD04AE}
+		{77A35A00-35F2-477F-92B2-39FBFCB23A87} = {1E495DED-7E20-4663-A3E0-ECABCDDD04AE}
+	EndGlobalSection
+EndGlobal

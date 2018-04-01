@@ -1,0 +1,6 @@
+D:\Projects\Preparation\DataStructures\Graph\bin\Debug\Graph.exe.config
+D:\Projects\Preparation\DataStructures\Graph\bin\Debug\Graph.exe
+D:\Projects\Preparation\DataStructures\Graph\bin\Debug\Graph.pdb
+D:\Projects\Preparation\DataStructures\Graph\obj\Debug\Graph.csprojResolveAssemblyReference.cache
+D:\Projects\Preparation\DataStructures\Graph\obj\Debug\Graph.exe
+D:\Projects\Preparation\DataStructures\Graph\obj\Debug\Graph.pdb
